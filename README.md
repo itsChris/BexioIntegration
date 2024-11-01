@@ -224,6 +224,4 @@ Contains the configuration settings for the application:
 
 This project is licensed under the MIT License.
 
----
-
-Feel free to customize this `README.md` to suit your repository and add any additional information that may help users understand and use your application.
+Questions? -> Contact us on https://www.solvia.ch
